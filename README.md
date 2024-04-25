@@ -30,3 +30,8 @@ This PHP script checks the login status of Netflix accounts using stored cookies
 2. Place your Netflix cookies in the `cookies/` directory.
 3. Ensure that the `cookies/works/` directory exists. If not, create it manually.
 
+## Copyright
+This Checker Coded by ***./Mr.Dark***, Enjoy
+[Contact Me](https://t.me/m3sterMind) 
+```php
+$Telegram = "@M3sterMind";
